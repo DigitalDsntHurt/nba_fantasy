@@ -1,0 +1,241 @@
+year,team,wins,losses,win_percentage,offensive_rating,defensive_rating,season_outcome,team_year_url,team_home_url
+2016-17,Atlanta Hawks,22,16,.579,104.7,104.7,"",http://www.basketball-reference.com/teams/ATL/2017.html,http://www.basketball-reference.com/teams/ATL/
+2015-16,Atlanta Hawks,48,34,.585,105.1,101.4,Lost E. Conf. Semis,http://www.basketball-reference.com/teams/ATL/2016.html,http://www.basketball-reference.com/teams/ATL/
+2014-15,Atlanta Hawks,60,22,.732,108.9,103.1,Lost E. Conf. Finals,http://www.basketball-reference.com/teams/ATL/2015.html,http://www.basketball-reference.com/teams/ATL/
+2013-14,Atlanta Hawks,38,44,.463,105.9,106.4,Lost E. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/ATL/2014.html,http://www.basketball-reference.com/teams/ATL/
+2012-13,Atlanta Hawks,44,38,.537,104.8,104.4,Lost E. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/ATL/2013.html,http://www.basketball-reference.com/teams/ATL/
+2011-12,Atlanta Hawks,40,26,.606,104.9,101.2,Lost E. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/ATL/2012.html,http://www.basketball-reference.com/teams/ATL/
+2010-11,Atlanta Hawks,44,38,.537,106.1,107.0,Lost E. Conf. Semis,http://www.basketball-reference.com/teams/ATL/2011.html,http://www.basketball-reference.com/teams/ATL/
+2009-10,Atlanta Hawks,53,29,.646,111.9,106.7,Lost E. Conf. Semis,http://www.basketball-reference.com/teams/ATL/2010.html,http://www.basketball-reference.com/teams/ATL/
+2016-17,Boston Celtics,24,15,.615,111.2,108.9,"",http://www.basketball-reference.com/teams/BOS/2017.html,http://www.basketball-reference.com/teams/BOS/
+2015-16,Boston Celtics,48,34,.585,106.8,103.6,Lost E. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/BOS/2016.html,http://www.basketball-reference.com/teams/BOS/
+2014-15,Boston Celtics,40,42,.488,104.7,104.5,Lost E. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/BOS/2015.html,http://www.basketball-reference.com/teams/BOS/
+2013-14,Boston Celtics,25,57,.305,102.9,107.7,"",http://www.basketball-reference.com/teams/BOS/2014.html,http://www.basketball-reference.com/teams/BOS/
+2012-13,Boston Celtics,41,40,.506,103.1,103.3,Lost E. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/BOS/2013.html,http://www.basketball-reference.com/teams/BOS/
+2011-12,Boston Celtics,39,27,.591,101.0,98.2,Lost E. Conf. Finals,http://www.basketball-reference.com/teams/BOS/2012.html,http://www.basketball-reference.com/teams/BOS/
+2010-11,Boston Celtics,56,26,.683,106.2,100.3,Lost E. Conf. Semis,http://www.basketball-reference.com/teams/BOS/2011.html,http://www.basketball-reference.com/teams/BOS/
+2009-10,Boston Celtics,50,32,.610,107.7,103.8,Lost Finals,http://www.basketball-reference.com/teams/BOS/2010.html,http://www.basketball-reference.com/teams/BOS/
+2016-17,Brooklyn Nets,8,30,.211,102.3,111.1,"",http://www.basketball-reference.com/teams/BRK/2017.html,http://www.basketball-reference.com/teams/NJN/
+2015-16,Brooklyn Nets,21,61,.256,103.2,110.9,"",http://www.basketball-reference.com/teams/BRK/2016.html,http://www.basketball-reference.com/teams/NJN/
+2014-15,Brooklyn Nets,38,44,.463,104.4,107.4,Lost E. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/BRK/2015.html,http://www.basketball-reference.com/teams/NJN/
+2013-14,Brooklyn Nets,44,38,.537,106.7,107.7,Lost E. Conf. Semis,http://www.basketball-reference.com/teams/BRK/2014.html,http://www.basketball-reference.com/teams/NJN/
+2012-13,Brooklyn Nets,49,33,.598,108.2,106.2,Lost E. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/BRK/2013.html,http://www.basketball-reference.com/teams/NJN/
+2011-12,New Jersey Nets,22,44,.333,102.9,109.6,"",http://www.basketball-reference.com/teams/NJN/2012.html,http://www.basketball-reference.com/teams/NJN/
+2010-11,New Jersey Nets,24,58,.293,103.1,109.9,"",http://www.basketball-reference.com/teams/NJN/2011.html,http://www.basketball-reference.com/teams/NJN/
+2009-10,New Jersey Nets,12,70,.146,100.6,110.5,"",http://www.basketball-reference.com/teams/NJN/2010.html,http://www.basketball-reference.com/teams/NJN/
+2016-17,Charlotte Hornets,20,19,.513,108.3,106.8,"",http://www.basketball-reference.com/teams/CHO/2017.html,http://www.basketball-reference.com/teams/CHA/
+2015-16,Charlotte Hornets,48,34,.585,107.1,104.3,Lost E. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/CHO/2016.html,http://www.basketball-reference.com/teams/CHA/
+2014-15,Charlotte Hornets,33,49,.402,100.1,103.5,"",http://www.basketball-reference.com/teams/CHO/2015.html,http://www.basketball-reference.com/teams/CHA/
+2013-14,Charlotte Bobcats,43,39,.524,103.6,103.8,Lost E. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/CHA/2014.html,http://www.basketball-reference.com/teams/CHA/
+2012-13,Charlotte Bobcats,21,61,.256,101.5,111.5,"",http://www.basketball-reference.com/teams/CHA/2013.html,http://www.basketball-reference.com/teams/CHA/
+2011-12,Charlotte Bobcats,7,59,.106,95.2,110.4,"",http://www.basketball-reference.com/teams/CHA/2012.html,http://www.basketball-reference.com/teams/CHA/
+2010-11,Charlotte Bobcats,34,48,.415,103.4,107.8,"",http://www.basketball-reference.com/teams/CHA/2011.html,http://www.basketball-reference.com/teams/CHA/
+2009-10,Charlotte Bobcats,44,38,.537,104.4,102.8,Lost E. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/CHA/2010.html,http://www.basketball-reference.com/teams/CHA/
+2016-17,Chicago Bulls,19,21,.475,107.0,107.3,"",http://www.basketball-reference.com/teams/CHI/2017.html,http://www.basketball-reference.com/teams/CHI/
+2015-16,Chicago Bulls,42,40,.512,105.0,106.5,"",http://www.basketball-reference.com/teams/CHI/2016.html,http://www.basketball-reference.com/teams/CHI/
+2014-15,Chicago Bulls,50,32,.610,107.5,104.3,Lost E. Conf. Semis,http://www.basketball-reference.com/teams/CHI/2015.html,http://www.basketball-reference.com/teams/CHI/
+2013-14,Chicago Bulls,48,34,.585,102.5,100.5,Lost E. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/CHI/2014.html,http://www.basketball-reference.com/teams/CHI/
+2012-13,Chicago Bulls,45,37,.549,103.5,103.2,Lost E. Conf. Semis,http://www.basketball-reference.com/teams/CHI/2013.html,http://www.basketball-reference.com/teams/CHI/
+2011-12,Chicago Bulls,50,16,.758,107.4,98.3,Lost E. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/CHI/2012.html,http://www.basketball-reference.com/teams/CHI/
+2010-11,Chicago Bulls,62,20,.756,108.3,100.3,Lost E. Conf. Finals,http://www.basketball-reference.com/teams/CHI/2011.html,http://www.basketball-reference.com/teams/CHI/
+2009-10,Chicago Bulls,41,41,.500,103.5,105.3,Lost E. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/CHI/2010.html,http://www.basketball-reference.com/teams/CHI/
+2016-17,Cleveland Cavaliers,28,10,.737,112.9,107.0,"",http://www.basketball-reference.com/teams/CLE/2017.html,http://www.basketball-reference.com/teams/CLE/
+2015-16,Cleveland Cavaliers,57,25,.695,110.9,104.5,Won Finals,http://www.basketball-reference.com/teams/CLE/2016.html,http://www.basketball-reference.com/teams/CLE/
+2014-15,Cleveland Cavaliers,53,29,.646,111.1,106.3,Lost Finals,http://www.basketball-reference.com/teams/CLE/2015.html,http://www.basketball-reference.com/teams/CLE/
+2013-14,Cleveland Cavaliers,33,49,.402,104.2,107.7,"",http://www.basketball-reference.com/teams/CLE/2014.html,http://www.basketball-reference.com/teams/CLE/
+2012-13,Cleveland Cavaliers,24,58,.293,104.3,109.4,"",http://www.basketball-reference.com/teams/CLE/2013.html,http://www.basketball-reference.com/teams/CLE/
+2011-12,Cleveland Cavaliers,21,45,.318,101.1,108.9,"",http://www.basketball-reference.com/teams/CLE/2012.html,http://www.basketball-reference.com/teams/CLE/
+2010-11,Cleveland Cavaliers,19,63,.232,102.2,111.8,"",http://www.basketball-reference.com/teams/CLE/2011.html,http://www.basketball-reference.com/teams/CLE/
+2009-10,Cleveland Cavaliers,61,21,.744,111.2,104.1,Lost E. Conf. Semis,http://www.basketball-reference.com/teams/CLE/2010.html,http://www.basketball-reference.com/teams/CLE/
+2016-17,Dallas Mavericks,12,27,.308,104.0,109.7,"",http://www.basketball-reference.com/teams/DAL/2017.html,http://www.basketball-reference.com/teams/DAL/
+2015-16,Dallas Mavericks,42,40,.512,106.7,107.0,Lost W. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/DAL/2016.html,http://www.basketball-reference.com/teams/DAL/
+2014-15,Dallas Mavericks,50,32,.610,109.5,106.4,Lost W. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/DAL/2015.html,http://www.basketball-reference.com/teams/DAL/
+2013-14,Dallas Mavericks,49,33,.598,111.2,108.7,Lost W. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/DAL/2014.html,http://www.basketball-reference.com/teams/DAL/
+2012-13,Dallas Mavericks,41,41,.500,105.9,106.5,"",http://www.basketball-reference.com/teams/DAL/2013.html,http://www.basketball-reference.com/teams/DAL/
+2011-12,Dallas Mavericks,36,30,.545,103.3,102.3,Lost W. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/DAL/2012.html,http://www.basketball-reference.com/teams/DAL/
+2010-11,Dallas Mavericks,57,25,.695,109.7,105.0,Won Finals,http://www.basketball-reference.com/teams/DAL/2011.html,http://www.basketball-reference.com/teams/DAL/
+2009-10,Dallas Mavericks,55,27,.671,109.2,106.3,Lost W. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/DAL/2010.html,http://www.basketball-reference.com/teams/DAL/
+2016-17,Denver Nuggets,15,23,.395,110.0,112.4,"",http://www.basketball-reference.com/teams/DEN/2017.html,http://www.basketball-reference.com/teams/DEN/
+2015-16,Denver Nuggets,33,49,.402,105.6,108.9,"",http://www.basketball-reference.com/teams/DEN/2016.html,http://www.basketball-reference.com/teams/DEN/
+2014-15,Denver Nuggets,30,52,.366,104.5,108.2,"",http://www.basketball-reference.com/teams/DEN/2015.html,http://www.basketball-reference.com/teams/DEN/
+2013-14,Denver Nuggets,36,46,.439,106.0,108.2,"",http://www.basketball-reference.com/teams/DEN/2014.html,http://www.basketball-reference.com/teams/DEN/
+2012-13,Denver Nuggets,57,25,.695,110.4,105.1,Lost W. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/DEN/2013.html,http://www.basketball-reference.com/teams/DEN/
+2011-12,Denver Nuggets,38,28,.576,109.2,106.2,Lost W. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/DEN/2012.html,http://www.basketball-reference.com/teams/DEN/
+2010-11,Denver Nuggets,50,32,.610,112.3,107.3,Lost W. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/DEN/2011.html,http://www.basketball-reference.com/teams/DEN/
+2009-10,Denver Nuggets,53,29,.646,111.8,107.5,Lost W. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/DEN/2010.html,http://www.basketball-reference.com/teams/DEN/
+2016-17,Detroit Pistons,18,23,.439,106.0,106.6,"",http://www.basketball-reference.com/teams/DET/2017.html,http://www.basketball-reference.com/teams/DET/
+2015-16,Detroit Pistons,44,38,.537,106.1,105.5,Lost E. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/DET/2016.html,http://www.basketball-reference.com/teams/DET/
+2014-15,Detroit Pistons,32,50,.390,105.3,106.4,"",http://www.basketball-reference.com/teams/DET/2015.html,http://www.basketball-reference.com/teams/DET/
+2013-14,Detroit Pistons,29,53,.354,105.9,109.7,"",http://www.basketball-reference.com/teams/DET/2014.html,http://www.basketball-reference.com/teams/DET/
+2012-13,Detroit Pistons,29,53,.354,103.8,108.1,"",http://www.basketball-reference.com/teams/DET/2013.html,http://www.basketball-reference.com/teams/DET/
+2011-12,Detroit Pistons,25,41,.379,101.0,106.3,"",http://www.basketball-reference.com/teams/DET/2012.html,http://www.basketball-reference.com/teams/DET/
+2010-11,Detroit Pistons,30,52,.366,107.7,111.7,"",http://www.basketball-reference.com/teams/DET/2011.html,http://www.basketball-reference.com/teams/DET/
+2009-10,Detroit Pistons,27,55,.329,105.6,111.4,"",http://www.basketball-reference.com/teams/DET/2010.html,http://www.basketball-reference.com/teams/DET/
+2016-17,Golden State Warriors,34,6,.850,116.0,104.1,"",http://www.basketball-reference.com/teams/GSW/2017.html,http://www.basketball-reference.com/teams/GSW/
+2015-16,Golden State Warriors,73,9,.890,114.5,103.8,Lost Finals,http://www.basketball-reference.com/teams/GSW/2016.html,http://www.basketball-reference.com/teams/GSW/
+2014-15,Golden State Warriors,67,15,.817,111.6,101.4,Won Finals,http://www.basketball-reference.com/teams/GSW/2015.html,http://www.basketball-reference.com/teams/GSW/
+2013-14,Golden State Warriors,51,31,.622,107.5,102.6,Lost W. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/GSW/2014.html,http://www.basketball-reference.com/teams/GSW/
+2012-13,Golden State Warriors,47,35,.573,106.4,105.5,Lost W. Conf. Semis,http://www.basketball-reference.com/teams/GSW/2013.html,http://www.basketball-reference.com/teams/GSW/
+2011-12,Golden State Warriors,23,43,.348,105.4,109.1,"",http://www.basketball-reference.com/teams/GSW/2012.html,http://www.basketball-reference.com/teams/GSW/
+2010-11,Golden State Warriors,36,46,.439,108.2,110.7,"",http://www.basketball-reference.com/teams/GSW/2011.html,http://www.basketball-reference.com/teams/GSW/
+2009-10,Golden State Warriors,26,56,.317,108.1,111.7,"",http://www.basketball-reference.com/teams/GSW/2010.html,http://www.basketball-reference.com/teams/GSW/
+2016-17,Houston Rockets,31,10,.756,115.5,108.3,"",http://www.basketball-reference.com/teams/HOU/2017.html,http://www.basketball-reference.com/teams/HOU/
+2015-16,Houston Rockets,41,41,.500,108.3,108.1,Lost W. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/HOU/2016.html,http://www.basketball-reference.com/teams/HOU/
+2014-15,Houston Rockets,56,26,.683,107.0,103.4,Lost W. Conf. Finals,http://www.basketball-reference.com/teams/HOU/2015.html,http://www.basketball-reference.com/teams/HOU/
+2013-14,Houston Rockets,54,28,.659,111.0,106.3,Lost W. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/HOU/2014.html,http://www.basketball-reference.com/teams/HOU/
+2012-13,Houston Rockets,45,37,.549,109.7,106.1,Lost W. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/HOU/2013.html,http://www.basketball-reference.com/teams/HOU/
+2011-12,Houston Rockets,34,32,.515,105.5,105.2,"",http://www.basketball-reference.com/teams/HOU/2012.html,http://www.basketball-reference.com/teams/HOU/
+2010-11,Houston Rockets,43,39,.524,111.3,109.0,"",http://www.basketball-reference.com/teams/HOU/2011.html,http://www.basketball-reference.com/teams/HOU/
+2009-10,Houston Rockets,42,40,.512,107.6,108.0,"",http://www.basketball-reference.com/teams/HOU/2010.html,http://www.basketball-reference.com/teams/HOU/
+2016-17,Indiana Pacers,20,19,.513,107.2,108.3,"",http://www.basketball-reference.com/teams/IND/2017.html,http://www.basketball-reference.com/teams/IND/
+2015-16,Indiana Pacers,45,37,.549,104.6,102.9,Lost E. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/IND/2016.html,http://www.basketball-reference.com/teams/IND/
+2014-15,Indiana Pacers,38,44,.463,103.5,103.2,"",http://www.basketball-reference.com/teams/IND/2015.html,http://www.basketball-reference.com/teams/IND/
+2013-14,Indiana Pacers,56,26,.683,104.1,99.3,Lost E. Conf. Finals,http://www.basketball-reference.com/teams/IND/2014.html,http://www.basketball-reference.com/teams/IND/
+2012-13,Indiana Pacers,49,32,.605,104.3,99.8,Lost E. Conf. Finals,http://www.basketball-reference.com/teams/IND/2013.html,http://www.basketball-reference.com/teams/IND/
+2011-12,Indiana Pacers,42,24,.636,106.7,103.1,Lost E. Conf. Semis,http://www.basketball-reference.com/teams/IND/2012.html,http://www.basketball-reference.com/teams/IND/
+2010-11,Indiana Pacers,37,45,.451,104.8,106.0,Lost E. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/IND/2011.html,http://www.basketball-reference.com/teams/IND/
+2009-10,Indiana Pacers,32,50,.390,103.7,106.8,"",http://www.basketball-reference.com/teams/IND/2010.html,http://www.basketball-reference.com/teams/IND/
+2016-17,Los Angeles Clippers,27,14,.659,111.3,105.6,"",http://www.basketball-reference.com/teams/LAC/2017.html,http://www.basketball-reference.com/teams/LAC/
+2015-16,Los Angeles Clippers,53,29,.646,108.3,103.8,Lost W. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/LAC/2016.html,http://www.basketball-reference.com/teams/LAC/
+2014-15,Los Angeles Clippers,56,26,.683,112.4,105.5,Lost W. Conf. Semis,http://www.basketball-reference.com/teams/LAC/2015.html,http://www.basketball-reference.com/teams/LAC/
+2013-14,Los Angeles Clippers,57,25,.695,112.1,104.8,Lost W. Conf. Semis,http://www.basketball-reference.com/teams/LAC/2014.html,http://www.basketball-reference.com/teams/LAC/
+2012-13,Los Angeles Clippers,56,26,.683,110.6,103.6,Lost W. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/LAC/2013.html,http://www.basketball-reference.com/teams/LAC/
+2011-12,Los Angeles Clippers,40,26,.606,108.5,105.7,Lost W. Conf. Semis,http://www.basketball-reference.com/teams/LAC/2012.html,http://www.basketball-reference.com/teams/LAC/
+2010-11,Los Angeles Clippers,32,50,.390,105.3,108.7,"",http://www.basketball-reference.com/teams/LAC/2011.html,http://www.basketball-reference.com/teams/LAC/
+2009-10,Los Angeles Clippers,29,53,.354,103.3,110.1,"",http://www.basketball-reference.com/teams/LAC/2010.html,http://www.basketball-reference.com/teams/LAC/
+2016-17,Los Angeles Lakers,15,28,.349,106.8,112.6,"",http://www.basketball-reference.com/teams/LAL/2017.html,http://www.basketball-reference.com/teams/LAL/
+2015-16,Los Angeles Lakers,17,65,.207,101.6,111.6,"",http://www.basketball-reference.com/teams/LAL/2016.html,http://www.basketball-reference.com/teams/LAL/
+2014-15,Los Angeles Lakers,21,61,.256,103.4,110.6,"",http://www.basketball-reference.com/teams/LAL/2015.html,http://www.basketball-reference.com/teams/LAL/
+2013-14,Los Angeles Lakers,27,55,.329,104.2,110.6,"",http://www.basketball-reference.com/teams/LAL/2014.html,http://www.basketball-reference.com/teams/LAL/
+2012-13,Los Angeles Lakers,45,37,.549,107.8,106.6,Lost W. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/LAL/2013.html,http://www.basketball-reference.com/teams/LAL/
+2011-12,Los Angeles Lakers,41,25,.621,106.0,104.4,Lost W. Conf. Semis,http://www.basketball-reference.com/teams/LAL/2012.html,http://www.basketball-reference.com/teams/LAL/
+2010-11,Los Angeles Lakers,57,25,.695,111.0,104.3,Lost W. Conf. Semis,http://www.basketball-reference.com/teams/LAL/2011.html,http://www.basketball-reference.com/teams/LAL/
+2009-10,Los Angeles Lakers,57,25,.695,108.8,103.7,Won Finals,http://www.basketball-reference.com/teams/LAL/2010.html,http://www.basketball-reference.com/teams/LAL/
+2016-17,Memphis Grizzlies,24,17,.585,104.8,104.3,"",http://www.basketball-reference.com/teams/MEM/2017.html,http://www.basketball-reference.com/teams/MEM/
+2015-16,Memphis Grizzlies,42,40,.512,105.4,107.8,Lost W. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/MEM/2016.html,http://www.basketball-reference.com/teams/MEM/
+2014-15,Memphis Grizzlies,55,27,.671,105.7,102.2,Lost W. Conf. Semis,http://www.basketball-reference.com/teams/MEM/2015.html,http://www.basketball-reference.com/teams/MEM/
+2013-14,Memphis Grizzlies,50,32,.610,106.3,104.6,Lost W. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/MEM/2014.html,http://www.basketball-reference.com/teams/MEM/
+2012-13,Memphis Grizzlies,56,26,.683,104.9,100.3,Lost W. Conf. Finals,http://www.basketball-reference.com/teams/MEM/2013.html,http://www.basketball-reference.com/teams/MEM/
+2011-12,Memphis Grizzlies,41,25,.621,104.0,101.8,Lost W. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/MEM/2012.html,http://www.basketball-reference.com/teams/MEM/
+2010-11,Memphis Grizzlies,46,36,.561,107.6,105.1,Lost W. Conf. Semis,http://www.basketball-reference.com/teams/MEM/2011.html,http://www.basketball-reference.com/teams/MEM/
+2009-10,Memphis Grizzlies,40,42,.488,108.3,109.9,"",http://www.basketball-reference.com/teams/MEM/2010.html,http://www.basketball-reference.com/teams/MEM/
+2016-17,Miami Heat,11,29,.275,102.6,107.2,"",http://www.basketball-reference.com/teams/MIA/2017.html,http://www.basketball-reference.com/teams/MIA/
+2015-16,Miami Heat,48,34,.585,106.1,104.4,Lost E. Conf. Semis,http://www.basketball-reference.com/teams/MIA/2016.html,http://www.basketball-reference.com/teams/MIA/
+2014-15,Miami Heat,37,45,.451,103.9,106.7,"",http://www.basketball-reference.com/teams/MIA/2015.html,http://www.basketball-reference.com/teams/MIA/
+2013-14,Miami Heat,54,28,.659,110.9,105.8,Lost Finals,http://www.basketball-reference.com/teams/MIA/2014.html,http://www.basketball-reference.com/teams/MIA/
+2012-13,Miami Heat,66,16,.805,112.3,103.7,Won Finals,http://www.basketball-reference.com/teams/MIA/2013.html,http://www.basketball-reference.com/teams/MIA/
+2011-12,Miami Heat,46,20,.697,106.6,100.2,Won Finals,http://www.basketball-reference.com/teams/MIA/2012.html,http://www.basketball-reference.com/teams/MIA/
+2010-11,Miami Heat,58,24,.707,111.7,103.5,Lost Finals,http://www.basketball-reference.com/teams/MIA/2011.html,http://www.basketball-reference.com/teams/MIA/
+2009-10,Miami Heat,47,35,.573,106.6,104.1,Lost E. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/MIA/2010.html,http://www.basketball-reference.com/teams/MIA/
+2016-17,Milwaukee Bucks,19,18,.514,109.6,107.5,"",http://www.basketball-reference.com/teams/MIL/2017.html,http://www.basketball-reference.com/teams/MIL/
+2015-16,Milwaukee Bucks,33,49,.402,104.3,108.7,"",http://www.basketball-reference.com/teams/MIL/2016.html,http://www.basketball-reference.com/teams/MIL/
+2014-15,Milwaukee Bucks,41,41,.500,102.7,102.2,Lost E. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/MIL/2015.html,http://www.basketball-reference.com/teams/MIL/
+2013-14,Milwaukee Bucks,15,67,.183,103.0,111.8,"",http://www.basketball-reference.com/teams/MIL/2014.html,http://www.basketball-reference.com/teams/MIL/
+2012-13,Milwaukee Bucks,38,44,.463,103.6,105.2,Lost E. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/MIL/2013.html,http://www.basketball-reference.com/teams/MIL/
+2011-12,Milwaukee Bucks,31,35,.470,105.5,105.2,"",http://www.basketball-reference.com/teams/MIL/2012.html,http://www.basketball-reference.com/teams/MIL/
+2010-11,Milwaukee Bucks,35,47,.427,101.6,102.5,"",http://www.basketball-reference.com/teams/MIL/2011.html,http://www.basketball-reference.com/teams/MIL/
+2009-10,Milwaukee Bucks,46,36,.561,104.9,103.1,Lost E. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/MIL/2010.html,http://www.basketball-reference.com/teams/MIL/
+2016-17,Minnesota Timberwolves,13,26,.333,109.2,110.3,"",http://www.basketball-reference.com/teams/MIN/2017.html,http://www.basketball-reference.com/teams/MIN/
+2015-16,Minnesota Timberwolves,29,53,.354,106.5,110.1,"",http://www.basketball-reference.com/teams/MIN/2016.html,http://www.basketball-reference.com/teams/MIN/
+2014-15,Minnesota Timberwolves,16,66,.195,102.9,112.2,"",http://www.basketball-reference.com/teams/MIN/2015.html,http://www.basketball-reference.com/teams/MIN/
+2013-14,Minnesota Timberwolves,40,42,.488,108.9,106.2,"",http://www.basketball-reference.com/teams/MIN/2014.html,http://www.basketball-reference.com/teams/MIN/
+2012-13,Minnesota Timberwolves,31,51,.378,102.9,105.4,"",http://www.basketball-reference.com/teams/MIN/2013.html,http://www.basketball-reference.com/teams/MIN/
+2011-12,Minnesota Timberwolves,26,40,.394,104.3,106.6,"",http://www.basketball-reference.com/teams/MIN/2012.html,http://www.basketball-reference.com/teams/MIN/
+2010-11,Minnesota Timberwolves,17,65,.207,104.2,111.1,"",http://www.basketball-reference.com/teams/MIN/2011.html,http://www.basketball-reference.com/teams/MIN/
+2009-10,Minnesota Timberwolves,15,67,.183,101.7,111.6,"",http://www.basketball-reference.com/teams/MIN/2010.html,http://www.basketball-reference.com/teams/MIN/
+2016-17,New Orleans Pelicans,16,24,.400,103.2,105.8,"",http://www.basketball-reference.com/teams/NOP/2017.html,http://www.basketball-reference.com/teams/NOH/
+2015-16,New Orleans Pelicans,30,52,.366,105.6,109.5,"",http://www.basketball-reference.com/teams/NOP/2016.html,http://www.basketball-reference.com/teams/NOH/
+2014-15,New Orleans Pelicans,45,37,.549,108.2,107.3,Lost W. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/NOP/2015.html,http://www.basketball-reference.com/teams/NOH/
+2013-14,New Orleans Pelicans,34,48,.415,107.2,110.1,"",http://www.basketball-reference.com/teams/NOP/2014.html,http://www.basketball-reference.com/teams/NOH/
+2012-13,New Orleans Hornets,27,55,.329,105.7,110.1,"",http://www.basketball-reference.com/teams/NOH/2013.html,http://www.basketball-reference.com/teams/NOH/
+2011-12,New Orleans Hornets,21,45,.318,100.9,105.1,"",http://www.basketball-reference.com/teams/NOH/2012.html,http://www.basketball-reference.com/teams/NOH/
+2010-11,New Orleans Hornets,46,36,.561,106.2,105.2,Lost W. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/NOH/2011.html,http://www.basketball-reference.com/teams/NOH/
+2009-10,New Orleans Hornets,37,45,.451,107.4,110.1,"",http://www.basketball-reference.com/teams/NOH/2010.html,http://www.basketball-reference.com/teams/NOH/
+2016-17,New York Knicks,18,22,.450,107.6,110.6,"",http://www.basketball-reference.com/teams/NYK/2017.html,http://www.basketball-reference.com/teams/NYK/
+2015-16,New York Knicks,32,50,.390,104.6,107.6,"",http://www.basketball-reference.com/teams/NYK/2016.html,http://www.basketball-reference.com/teams/NYK/
+2014-15,New York Knicks,17,65,.207,99.9,110.0,"",http://www.basketball-reference.com/teams/NYK/2015.html,http://www.basketball-reference.com/teams/NYK/
+2013-14,New York Knicks,37,45,.451,108.3,109.1,"",http://www.basketball-reference.com/teams/NYK/2014.html,http://www.basketball-reference.com/teams/NYK/
+2012-13,New York Knicks,54,28,.659,111.1,106.3,Lost E. Conf. Semis,http://www.basketball-reference.com/teams/NYK/2013.html,http://www.basketball-reference.com/teams/NYK/
+2011-12,New York Knicks,36,30,.545,104.4,101.0,Lost E. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/NYK/2012.html,http://www.basketball-reference.com/teams/NYK/
+2010-11,New York Knicks,42,40,.512,110.9,110.1,Lost E. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/NYK/2011.html,http://www.basketball-reference.com/teams/NYK/
+2009-10,New York Knicks,29,53,.354,107.6,111.6,"",http://www.basketball-reference.com/teams/NYK/2010.html,http://www.basketball-reference.com/teams/NYK/
+2016-17,Oklahoma City Thunder,24,16,.600,108.5,106.4,"",http://www.basketball-reference.com/teams/OKC/2017.html,http://www.basketball-reference.com/teams/OKC/
+2015-16,Oklahoma City Thunder,55,27,.671,113.1,105.6,Lost W. Conf. Finals,http://www.basketball-reference.com/teams/OKC/2016.html,http://www.basketball-reference.com/teams/OKC/
+2014-15,Oklahoma City Thunder,45,37,.549,107.8,105.5,"",http://www.basketball-reference.com/teams/OKC/2015.html,http://www.basketball-reference.com/teams/OKC/
+2013-14,Oklahoma City Thunder,59,23,.720,110.5,103.9,Lost W. Conf. Finals,http://www.basketball-reference.com/teams/OKC/2014.html,http://www.basketball-reference.com/teams/OKC/
+2012-13,Oklahoma City Thunder,60,22,.732,112.4,102.6,Lost W. Conf. Semis,http://www.basketball-reference.com/teams/OKC/2013.html,http://www.basketball-reference.com/teams/OKC/
+2011-12,Oklahoma City Thunder,47,19,.712,109.8,103.2,Lost Finals,http://www.basketball-reference.com/teams/OKC/2012.html,http://www.basketball-reference.com/teams/OKC/
+2010-11,Oklahoma City Thunder,55,27,.671,111.2,107.2,Lost W. Conf. Finals,http://www.basketball-reference.com/teams/OKC/2011.html,http://www.basketball-reference.com/teams/OKC/
+2009-10,Oklahoma City Thunder,50,32,.610,108.3,104.6,Lost W. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/OKC/2010.html,http://www.basketball-reference.com/teams/OKC/
+2016-17,Orlando Magic,16,24,.400,103.1,108.2,"",http://www.basketball-reference.com/teams/ORL/2017.html,http://www.basketball-reference.com/teams/ORL/
+2015-16,Orlando Magic,35,47,.427,105.1,106.8,"",http://www.basketball-reference.com/teams/ORL/2016.html,http://www.basketball-reference.com/teams/ORL/
+2014-15,Orlando Magic,25,57,.305,101.6,107.7,"",http://www.basketball-reference.com/teams/ORL/2015.html,http://www.basketball-reference.com/teams/ORL/
+2013-14,Orlando Magic,23,59,.280,101.7,107.4,"",http://www.basketball-reference.com/teams/ORL/2014.html,http://www.basketball-reference.com/teams/ORL/
+2012-13,Orlando Magic,20,62,.244,101.6,109.1,"",http://www.basketball-reference.com/teams/ORL/2013.html,http://www.basketball-reference.com/teams/ORL/
+2011-12,Orlando Magic,37,29,.561,105.0,104.1,Lost E. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/ORL/2012.html,http://www.basketball-reference.com/teams/ORL/
+2010-11,Orlando Magic,52,30,.634,107.9,102.0,Lost E. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/ORL/2011.html,http://www.basketball-reference.com/teams/ORL/
+2009-10,Orlando Magic,59,23,.720,111.4,103.3,Lost E. Conf. Finals,http://www.basketball-reference.com/teams/ORL/2010.html,http://www.basketball-reference.com/teams/ORL/
+2016-17,Philadelphia 76ers,11,25,.306,101.0,107.6,"",http://www.basketball-reference.com/teams/PHI/2017.html,http://www.basketball-reference.com/teams/PHI/
+2015-16,Philadelphia 76ers,10,72,.122,98.8,109.2,"",http://www.basketball-reference.com/teams/PHI/2016.html,http://www.basketball-reference.com/teams/PHI/
+2014-15,Philadelphia 76ers,18,64,.220,95.5,104.8,"",http://www.basketball-reference.com/teams/PHI/2015.html,http://www.basketball-reference.com/teams/PHI/
+2013-14,Philadelphia 76ers,19,63,.232,99.4,109.9,"",http://www.basketball-reference.com/teams/PHI/2014.html,http://www.basketball-reference.com/teams/PHI/
+2012-13,Philadelphia 76ers,34,48,.415,102.0,105.7,"",http://www.basketball-reference.com/teams/PHI/2013.html,http://www.basketball-reference.com/teams/PHI/
+2011-12,Philadelphia 76ers,35,31,.530,103.9,99.2,Lost E. Conf. Semis,http://www.basketball-reference.com/teams/PHI/2012.html,http://www.basketball-reference.com/teams/PHI/
+2010-11,Philadelphia 76ers,41,41,.500,106.6,105.0,Lost E. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/PHI/2011.html,http://www.basketball-reference.com/teams/PHI/
+2009-10,Philadelphia 76ers,27,55,.329,106.1,110.3,"",http://www.basketball-reference.com/teams/PHI/2010.html,http://www.basketball-reference.com/teams/PHI/
+2016-17,Phoenix Suns,12,27,.308,104.8,110.8,"",http://www.basketball-reference.com/teams/PHO/2017.html,http://www.basketball-reference.com/teams/PHO/
+2015-16,Phoenix Suns,23,59,.280,102.2,109.0,"",http://www.basketball-reference.com/teams/PHO/2016.html,http://www.basketball-reference.com/teams/PHO/
+2014-15,Phoenix Suns,39,43,.476,105.3,106.2,"",http://www.basketball-reference.com/teams/PHO/2015.html,http://www.basketball-reference.com/teams/PHO/
+2013-14,Phoenix Suns,48,34,.585,109.5,106.7,"",http://www.basketball-reference.com/teams/PHO/2014.html,http://www.basketball-reference.com/teams/PHO/
+2012-13,Phoenix Suns,25,57,.305,101.2,108.1,"",http://www.basketball-reference.com/teams/PHO/2013.html,http://www.basketball-reference.com/teams/PHO/
+2011-12,Phoenix Suns,33,33,.500,106.2,106.5,"",http://www.basketball-reference.com/teams/PHO/2012.html,http://www.basketball-reference.com/teams/PHO/
+2010-11,Phoenix Suns,40,42,.488,109.5,110.4,"",http://www.basketball-reference.com/teams/PHO/2011.html,http://www.basketball-reference.com/teams/PHO/
+2009-10,Phoenix Suns,54,28,.659,115.3,110.2,Lost W. Conf. Finals,http://www.basketball-reference.com/teams/PHO/2010.html,http://www.basketball-reference.com/teams/PHO/
+2016-17,Portland Trail Blazers,18,23,.439,109.7,112.0,"",http://www.basketball-reference.com/teams/POR/2017.html,http://www.basketball-reference.com/teams/POR/
+2015-16,Portland Trail Blazers,44,38,.537,108.8,108.0,Lost W. Conf. Semis,http://www.basketball-reference.com/teams/POR/2016.html,http://www.basketball-reference.com/teams/POR/
+2014-15,Portland Trail Blazers,51,31,.622,108.2,103.7,Lost W. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/POR/2015.html,http://www.basketball-reference.com/teams/POR/
+2013-14,Portland Trail Blazers,54,28,.659,111.5,107.4,Lost W. Conf. Semis,http://www.basketball-reference.com/teams/POR/2014.html,http://www.basketball-reference.com/teams/POR/
+2012-13,Portland Trail Blazers,33,49,.402,105.8,109.2,"",http://www.basketball-reference.com/teams/POR/2013.html,http://www.basketball-reference.com/teams/POR/
+2011-12,Portland Trail Blazers,28,38,.424,105.7,106.4,"",http://www.basketball-reference.com/teams/POR/2012.html,http://www.basketball-reference.com/teams/POR/
+2010-11,Portland Trail Blazers,48,34,.585,108.8,107.1,Lost W. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/POR/2011.html,http://www.basketball-reference.com/teams/POR/
+2009-10,Portland Trail Blazers,50,32,.610,110.8,107.1,Lost W. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/POR/2010.html,http://www.basketball-reference.com/teams/POR/
+2016-17,Sacramento Kings,16,22,.421,107.4,110.0,"",http://www.basketball-reference.com/teams/SAC/2017.html,http://www.basketball-reference.com/teams/SAC/
+2015-16,Sacramento Kings,33,49,.402,106.0,108.4,"",http://www.basketball-reference.com/teams/SAC/2016.html,http://www.basketball-reference.com/teams/SAC/
+2014-15,Sacramento Kings,29,53,.354,105.3,109.2,"",http://www.basketball-reference.com/teams/SAC/2015.html,http://www.basketball-reference.com/teams/SAC/
+2013-14,Sacramento Kings,28,54,.341,105.7,108.8,"",http://www.basketball-reference.com/teams/SAC/2014.html,http://www.basketball-reference.com/teams/SAC/
+2012-13,Sacramento Kings,28,54,.341,106.2,111.4,"",http://www.basketball-reference.com/teams/SAC/2013.html,http://www.basketball-reference.com/teams/SAC/
+2011-12,Sacramento Kings,22,44,.333,103.8,109.8,"",http://www.basketball-reference.com/teams/SAC/2012.html,http://www.basketball-reference.com/teams/SAC/
+2010-11,Sacramento Kings,24,58,.293,103.5,109.0,"",http://www.basketball-reference.com/teams/SAC/2011.html,http://www.basketball-reference.com/teams/SAC/
+2009-10,Sacramento Kings,25,57,.305,105.3,109.9,"",http://www.basketball-reference.com/teams/SAC/2010.html,http://www.basketball-reference.com/teams/SAC/
+2016-17,San Antonio Spurs,31,8,.795,113.6,104.0,"",http://www.basketball-reference.com/teams/SAS/2017.html,http://www.basketball-reference.com/teams/SAS/
+2015-16,San Antonio Spurs,67,15,.817,110.3,99.0,Lost W. Conf. Semis,http://www.basketball-reference.com/teams/SAS/2016.html,http://www.basketball-reference.com/teams/SAS/
+2014-15,San Antonio Spurs,55,27,.671,108.5,102.0,Lost W. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/SAS/2015.html,http://www.basketball-reference.com/teams/SAS/
+2013-14,San Antonio Spurs,62,20,.756,110.5,102.4,Won Finals,http://www.basketball-reference.com/teams/SAS/2014.html,http://www.basketball-reference.com/teams/SAS/
+2012-13,San Antonio Spurs,58,24,.707,108.3,101.6,Lost Finals,http://www.basketball-reference.com/teams/SAS/2013.html,http://www.basketball-reference.com/teams/SAS/
+2011-12,San Antonio Spurs,50,16,.758,110.9,103.2,Lost W. Conf. Finals,http://www.basketball-reference.com/teams/SAS/2012.html,http://www.basketball-reference.com/teams/SAS/
+2010-11,San Antonio Spurs,61,21,.744,111.8,105.6,Lost W. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/SAS/2011.html,http://www.basketball-reference.com/teams/SAS/
+2009-10,San Antonio Spurs,50,32,.610,110.0,104.5,Lost W. Conf. Semis,http://www.basketball-reference.com/teams/SAS/2010.html,http://www.basketball-reference.com/teams/SAS/
+2016-17,Toronto Raptors,25,13,.658,115.4,108.9,"",http://www.basketball-reference.com/teams/TOR/2017.html,http://www.basketball-reference.com/teams/TOR/
+2015-16,Toronto Raptors,56,26,.683,110.0,105.2,Lost E. Conf. Finals,http://www.basketball-reference.com/teams/TOR/2016.html,http://www.basketball-reference.com/teams/TOR/
+2014-15,Toronto Raptors,49,33,.598,111.0,107.7,Lost E. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/TOR/2015.html,http://www.basketball-reference.com/teams/TOR/
+2013-14,Toronto Raptors,48,34,.585,108.8,105.3,Lost E. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/TOR/2014.html,http://www.basketball-reference.com/teams/TOR/
+2012-13,Toronto Raptors,34,48,.415,105.9,107.5,"",http://www.basketball-reference.com/teams/TOR/2013.html,http://www.basketball-reference.com/teams/TOR/
+2011-12,Toronto Raptors,23,43,.348,100.8,104.5,"",http://www.basketball-reference.com/teams/TOR/2012.html,http://www.basketball-reference.com/teams/TOR/
+2010-11,Toronto Raptors,22,60,.268,106.1,112.9,"",http://www.basketball-reference.com/teams/TOR/2011.html,http://www.basketball-reference.com/teams/TOR/
+2009-10,Toronto Raptors,40,42,.488,111.3,113.2,"",http://www.basketball-reference.com/teams/TOR/2010.html,http://www.basketball-reference.com/teams/TOR/
+2016-17,Utah Jazz,24,16,.600,108.2,104.4,"",http://www.basketball-reference.com/teams/UTA/2017.html,http://www.basketball-reference.com/teams/UTA/
+2015-16,Utah Jazz,40,42,.488,105.9,103.9,"",http://www.basketball-reference.com/teams/UTA/2016.html,http://www.basketball-reference.com/teams/UTA/
+2014-15,Utah Jazz,38,44,.463,105.1,104.9,"",http://www.basketball-reference.com/teams/UTA/2015.html,http://www.basketball-reference.com/teams/UTA/
+2013-14,Utah Jazz,25,57,.305,103.5,111.3,"",http://www.basketball-reference.com/teams/UTA/2014.html,http://www.basketball-reference.com/teams/UTA/
+2012-13,Utah Jazz,43,39,.524,106.7,106.8,"",http://www.basketball-reference.com/teams/UTA/2013.html,http://www.basketball-reference.com/teams/UTA/
+2011-12,Utah Jazz,36,30,.545,106.8,106.1,Lost W. Conf. 1st Rnd.,http://www.basketball-reference.com/teams/UTA/2012.html,http://www.basketball-reference.com/teams/UTA/
+2010-11,Utah Jazz,39,43,.476,108.1,110.1,"",http://www.basketball-reference.com/teams/UTA/2011.html,http://www.basketball-reference.com/teams/UTA/
+2009-10,Utah Jazz,53,29,.646,110.7,105.0,Lost W. Conf. Semis,http://www.basketball-reference.com/teams/UTA/2010.html,http://www.basketball-reference.com/teams/UTA/
+2016-17,Washington Wizards,19,19,.500,108.0,108.8,"",http://www.basketball-reference.com/teams/WAS/2017.html,http://www.basketball-reference.com/teams/WAS/
+2015-16,Washington Wizards,41,41,.500,105.3,105.8,"",http://www.basketball-reference.com/teams/WAS/2016.html,http://www.basketball-reference.com/teams/WAS/
+2014-15,Washington Wizards,46,36,.561,103.7,103.0,Lost E. Conf. Semis,http://www.basketball-reference.com/teams/WAS/2015.html,http://www.basketball-reference.com/teams/WAS/
+2013-14,Washington Wizards,44,38,.537,106.0,104.6,Lost E. Conf. Semis,http://www.basketball-reference.com/teams/WAS/2014.html,http://www.basketball-reference.com/teams/WAS/
+2012-13,Washington Wizards,29,53,.354,100.2,103.0,"",http://www.basketball-reference.com/teams/WAS/2013.html,http://www.basketball-reference.com/teams/WAS/
+2011-12,Washington Wizards,20,46,.303,101.0,106.2,"",http://www.basketball-reference.com/teams/WAS/2012.html,http://www.basketball-reference.com/teams/WAS/
+2010-11,Washington Wizards,23,59,.280,102.4,110.2,"",http://www.basketball-reference.com/teams/WAS/2011.html,http://www.basketball-reference.com/teams/WAS/
+2009-10,Washington Wizards,26,56,.317,104.2,109.4,"",http://www.basketball-reference.com/teams/WAS/2010.html,http://www.basketball-reference.com/teams/WAS/

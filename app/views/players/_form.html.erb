@@ -1,0 +1,127 @@
+<%= form_for(player) do |f| %>
+  <% if player.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(player.errors.count, "error") %> prohibited this player from being saved:</h2>
+
+      <ul>
+      <% player.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :name %>
+    <%= f.text_field :name %>
+  </div>
+
+  <div class="field">
+    <%= f.label :year_of_birth %>
+    <%= f.number_field :year_of_birth %>
+  </div>
+
+  <div class="field">
+    <%= f.label :position_br %>
+    <%= f.text_field :position_br %>
+  </div>
+
+  <div class="field">
+    <%= f.label :position_dk %>
+    <%= f.text_field :position_dk %>
+  </div>
+
+  <div class="field">
+    <%= f.label :current_team %>
+    <%= f.text_field :current_team %>
+  </div>
+
+  <div class="field">
+    <%= f.label :team_history %>
+    <%= f.text_area :team_history %>
+  </div>
+
+  <div class="field">
+    <%= f.label :points_season_avg %>
+    <%= f.text_field :points_season_avg %>
+  </div>
+
+  <div class="field">
+    <%= f.label :points_career_avg %>
+    <%= f.text_field :points_career_avg %>
+  </div>
+
+  <div class="field">
+    <%= f.label :three_pt_shots_made_season_avg %>
+    <%= f.text_field :three_pt_shots_made_season_avg %>
+  </div>
+
+  <div class="field">
+    <%= f.label :three_pt_shots_made_career_avg %>
+    <%= f.text_field :three_pt_shots_made_career_avg %>
+  </div>
+
+  <div class="field">
+    <%= f.label :assists_season_avg %>
+    <%= f.text_field :assists_season_avg %>
+  </div>
+
+  <div class="field">
+    <%= f.label :assists_career_avg %>
+    <%= f.text_field :assists_career_avg %>
+  </div>
+
+  <div class="field">
+    <%= f.label :offensive_rebounds_season_avg %>
+    <%= f.text_field :offensive_rebounds_season_avg %>
+  </div>
+
+  <div class="field">
+    <%= f.label :defensive_rebounds_season_avg %>
+    <%= f.text_field :defensive_rebounds_season_avg %>
+  </div>
+
+  <div class="field">
+    <%= f.label :offensive_rebounds_career_avg %>
+    <%= f.text_field :offensive_rebounds_career_avg %>
+  </div>
+
+  <div class="field">
+    <%= f.label :defensive_rebounds_career_avg %>
+    <%= f.text_field :defensive_rebounds_career_avg %>
+  </div>
+
+  <div class="field">
+    <%= f.label :steals_season_avg %>
+    <%= f.text_field :steals_season_avg %>
+  </div>
+
+  <div class="field">
+    <%= f.label :steals_career_avg %>
+    <%= f.text_field :steals_career_avg %>
+  </div>
+
+  <div class="field">
+    <%= f.label :blocks_season_avg %>
+    <%= f.text_field :blocks_season_avg %>
+  </div>
+
+  <div class="field">
+    <%= f.label :blocks_career_avg %>
+    <%= f.text_field :blocks_career_avg %>
+  </div>
+
+  <div class="field">
+    <%= f.label :turnovers_season_avg %>
+    <%= f.text_field :turnovers_season_avg %>
+  </div>
+
+  <div class="field">
+    <%= f.label :turnovers_career_avg %>
+    <%= f.text_field :turnovers_career_avg %>
+  </div>
+
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

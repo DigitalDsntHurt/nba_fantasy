@@ -1,0 +1,1 @@
+json.array! @team_years, partial: 'team_years/team_year', as: :team_year

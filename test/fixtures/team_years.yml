@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  year: MyString
+  team: MyString
+  wins: 1
+  losses: 1
+  win_percentage: MyString
+  offensive_rating: 1.5
+  defensive_rating: 1.5
+  season_outcome: MyString
+  team_url: MyString
+  team_home_url: MyString
+
+two:
+  year: MyString
+  team: MyString
+  wins: 1
+  losses: 1
+  win_percentage: MyString
+  offensive_rating: 1.5
+  defensive_rating: 1.5
+  season_outcome: MyString
+  team_url: MyString
+  team_home_url: MyString

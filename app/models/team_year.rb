@@ -1,0 +1,2 @@
+class TeamYear < ApplicationRecord
+end

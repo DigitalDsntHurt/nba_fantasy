@@ -1,0 +1,49 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  year_of_birth: 1
+  position_br: MyString
+  position_dk: MyString
+  current_team: MyString
+  team_history: MyText
+  points_season_avg: 1.5
+  points_career_avg: 1.5
+  three_pt_shots_made_season_avg: 1.5
+  three_pt_shots_made_career_avg: 1.5
+  assists_season_avg: 1.5
+  assists_career_avg: 1.5
+  offensive_rebounds_season_avg: 1.5
+  defensive_rebounds_season_avg: 1.5
+  offensive_rebounds_career_avg: 1.5
+  defensive_rebounds_career_avg: 1.5
+  steals_season_avg: 1.5
+  steals_career_avg: 1.5
+  blocks_season_avg: 1.5
+  blocks_career_avg: 1.5
+  turnovers_season_avg: 1.5
+  turnovers_career_avg: 1.5
+
+two:
+  name: MyString
+  year_of_birth: 1
+  position_br: MyString
+  position_dk: MyString
+  current_team: MyString
+  team_history: MyText
+  points_season_avg: 1.5
+  points_career_avg: 1.5
+  three_pt_shots_made_season_avg: 1.5
+  three_pt_shots_made_career_avg: 1.5
+  assists_season_avg: 1.5
+  assists_career_avg: 1.5
+  offensive_rebounds_season_avg: 1.5
+  defensive_rebounds_season_avg: 1.5
+  offensive_rebounds_career_avg: 1.5
+  defensive_rebounds_career_avg: 1.5
+  steals_season_avg: 1.5
+  steals_career_avg: 1.5
+  blocks_season_avg: 1.5
+  blocks_career_avg: 1.5
+  turnovers_season_avg: 1.5
+  turnovers_career_avg: 1.5

@@ -1,0 +1,54 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Year:</strong>
+  <%= @team_year.year %>
+</p>
+
+<p>
+  <strong>Team:</strong>
+  <%= @team_year.team %>
+</p>
+
+<p>
+  <strong>Wins:</strong>
+  <%= @team_year.wins %>
+</p>
+
+<p>
+  <strong>Losses:</strong>
+  <%= @team_year.losses %>
+</p>
+
+<p>
+  <strong>Win percentage:</strong>
+  <%= @team_year.win_percentage %>
+</p>
+
+<p>
+  <strong>Offensive rating:</strong>
+  <%= @team_year.offensive_rating %>
+</p>
+
+<p>
+  <strong>Defensive rating:</strong>
+  <%= @team_year.defensive_rating %>
+</p>
+
+<p>
+  <strong>Season outcome:</strong>
+  <%= @team_year.season_outcome %>
+</p>
+
+<p>
+  <strong>Team url:</strong>
+  <%= @team_year.team_url %>
+</p>
+
+<p>
+  <strong>Team home url:</strong>
+  <%= @team_year.team_home_url %>
+</p>
+
+<%= link_to 'Edit', edit_team_year_path(@team_year) %> |
+<%= link_to 'Back', team_years_path %>

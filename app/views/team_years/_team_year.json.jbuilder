@@ -1,0 +1,2 @@
+json.extract! team_year, :id, :year, :team, :wins, :losses, :win_percentage, :offensive_rating, :defensive_rating, :season_outcome, :team_url, :team_home_url, :created_at, :updated_at
+json.url team_year_url(team_year, format: :json)

@@ -1,0 +1,1 @@
+json.partial! "team_years/team_year", team_year: @team_year

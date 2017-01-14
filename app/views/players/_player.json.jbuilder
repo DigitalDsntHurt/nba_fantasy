@@ -1,0 +1,2 @@
+json.extract! player, :id, :name, :year_of_birth, :position_br, :position_dk, :current_team, :team_history, :points_season_avg, :points_career_avg, :three_pt_shots_made_season_avg, :three_pt_shots_made_career_avg, :assists_season_avg, :assists_career_avg, :offensive_rebounds_season_avg, :defensive_rebounds_season_avg, :offensive_rebounds_career_avg, :defensive_rebounds_career_avg, :steals_season_avg, :steals_career_avg, :blocks_season_avg, :blocks_career_avg, :turnovers_season_avg, :turnovers_career_avg, :created_at, :updated_at
+json.url player_url(player, format: :json)

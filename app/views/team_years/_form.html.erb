@@ -1,0 +1,67 @@
+<%= form_for(team_year) do |f| %>
+  <% if team_year.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(team_year.errors.count, "error") %> prohibited this team_year from being saved:</h2>
+
+      <ul>
+      <% team_year.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :year %>
+    <%= f.text_field :year %>
+  </div>
+
+  <div class="field">
+    <%= f.label :team %>
+    <%= f.text_field :team %>
+  </div>
+
+  <div class="field">
+    <%= f.label :wins %>
+    <%= f.number_field :wins %>
+  </div>
+
+  <div class="field">
+    <%= f.label :losses %>
+    <%= f.number_field :losses %>
+  </div>
+
+  <div class="field">
+    <%= f.label :win_percentage %>
+    <%= f.text_field :win_percentage %>
+  </div>
+
+  <div class="field">
+    <%= f.label :offensive_rating %>
+    <%= f.text_field :offensive_rating %>
+  </div>
+
+  <div class="field">
+    <%= f.label :defensive_rating %>
+    <%= f.text_field :defensive_rating %>
+  </div>
+
+  <div class="field">
+    <%= f.label :season_outcome %>
+    <%= f.text_field :season_outcome %>
+  </div>
+
+  <div class="field">
+    <%= f.label :team_url %>
+    <%= f.text_field :team_url %>
+  </div>
+
+  <div class="field">
+    <%= f.label :team_home_url %>
+    <%= f.text_field :team_home_url %>
+  </div>
+
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>
