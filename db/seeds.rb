@@ -30,7 +30,9 @@ current_season = 17
 	next if i == 0
 	@hsh = { :year => row[0], :team => row[1], :wins => row[2], :losses => row[3], :win_percentage => row[4], :offensive_rating => row[5], :defensive_rating => row[6], :season_outcome => row[7], :team_url => row[8], :team_home_url => row[9] }
 	TeamYear.create( @hsh )
+	p "TeamYear Created:"
 	p @hsh	
+	puts 
 }
 
 
@@ -96,8 +98,5 @@ current_season = 17
 	p @player_hsh
 	puts 
 }
-p @payload.class
-p @payload.count
-p @payload.uniq.count
 
 
