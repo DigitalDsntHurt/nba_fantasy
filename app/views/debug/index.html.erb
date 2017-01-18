@@ -1,10 +1,20 @@
-<h3>TeamYears: <%= @team_years.count %></h3><br>
+<h3><%= link_to("TeamYears:", team_years_path) %> <%= @team_years.count %></h3><br>
 <%= @team_years.column_names %>
+
 <br><br>
 <hr>
 <br>
-<h3>Players: <%= @players.count %></h3><br>
+
+<h3><%= link_to('Players:', players_path) %> <%= @players.count %></h3><br>
 <%= @players.column_names %>
+
+<br><br>
+<hr>
+<br>
+
+<h3><%= link_to('PlayerGames:', players_path) %> <%= @players.count %></h3><br>
+<%= @players.column_names %>
+
 <br><br>
 <hr>
 <br>
