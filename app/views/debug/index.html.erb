@@ -1,21 +1,34 @@
 <h1>Debug#index</h1>
 <p>Find me in app/views/debug/index.html.erb</p>
 <hr>
-<h1>PlayerGames columns</h1>
-<p><%= @player_games.column_names%></p>
-<p>Currently <%= @player_games.count%> PlayerGame rows</p>
-<p></p>
-<h1>Players columns</h1>
-<p><%= @players.column_names%></p>
-<p>Currently <%= @players.count%> Player rows</p>
-<p></p>
-<h1>Lineups columns</h1>
-<p><%= @lineups.column_names%></p>
-<p>Currently <%= @lineups.count%> Player rows</p>
-<p></p>
-<h1>PlayerPools columns</h1>
-<p><%= @player_pools.column_names%></p>
-<p>Currently <%= @player_pools.count%> Player rows</p>
+
+<p>
+<h2>PlayerGames -- <%= @player_games.count%> rows</h2>
+<strong>Column names:</strong> <%= @player_games.column_names%>
+</p>
+
+<p>&nbsp;</p>
+
+<p>
+<h2>Players -- <%= @players.count%> rows</h2>
+<strong>Column names:</strong> <%= @players.column_names%>
+</p>
+
+<p>&nbsp;</p>
+
+<p>
+<h2>Lineups -- <%= @lineups.count%></h2>
+<strong>Column names:</strong> <%= @lineups.column_names%>
+</p>
+
+<p>&nbsp;</p>
+
+<p>
+<h2>PlayerPools -- <%= @player_pools.count%> rows</h2>
+<strong>Column names:</strong> <%= @player_pools.column_names%>
+</p>
+
+
 <p></p>
 <p></p>
 <p></p>
