@@ -1,3 +1,18 @@
+###################################
+###################################
+###################################
+### 							###
+### 							###
+	seed_teamyears = true		###
+	seed_players = true			###
+### 							###
+### 							###
+###################################
+###################################
+###################################
+
+
+
 require 'csv'
 
 def get_stuff_from_page(page,xpath)
@@ -18,10 +33,9 @@ end
 
 current_season = 17
 
-=begin
-=end
+if seed_teamyears
 ##
-#### Seed TeamYears
+#### Seed TeamYears from CSV in lib/data
 ##
 @csv = Rails.root.join('lib','data','team_years.csv')
 @arr = CSV.open(@csv,"r").to_a
@@ -29,19 +43,19 @@ current_season = 17
 @arr.each_with_index{|row,i|
 	next if i == 0
 	@hsh = { :year => row[0], :team => row[1], :wins => row[2], :losses => row[3], :win_percentage => row[4], :offensive_rating => row[5], :defensive_rating => row[6], :season_outcome => row[7], :team_url => row[8], :team_home_url => row[9] }
-	TeamYear.create( @hsh )
+	TeamYear.create!( @hsh )
 	p "TeamYear Created:"
 	p @hsh	
 	puts 
 }
+end
 
 
 
-
+if seed_players
 ##
-#### Seed Players
+#### Seed Players from CSV in lib/data
 ##
-
 @players_csv = CSV.open( 
 	Rails.root.join('lib','data','players_rough.csv'),
 	"r").to_a
@@ -92,11 +106,15 @@ current_season = 17
 }
 
 @payload.each{|p|
-	@player_hsh = { :name => p[0], :position_br => p[1], :year_of_birth => p[3], :current_team => p[2], :team_history => p[4], :active => p[5] } 
-	Player.create(@player_hsh)
+	@year = p[-2][0][0]
+	@team = p[-2][0][1]
+	@teamyearselect = TeamYear.where(:year => @year, :team => @team)[0]
+
+	@player_hsh = { :name => p[0], :position_br => p[1], :year_of_birth => p[3], :team_year => @teamyearselect, :team_history => p[4], :active => p[5] } 
+	Player.create!( @player_hsh )
 	p "Player Created:"
 	p @player_hsh
 	puts 
 }
-
+end
 

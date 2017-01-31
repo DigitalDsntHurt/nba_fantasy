@@ -1,5 +1,8 @@
 Rails.application.routes.draw do
   
+  resources :player_games
+  get 'console/index'
+
   #PLAYERGAMES
 
   # PLAYERS
@@ -11,5 +14,6 @@ Rails.application.routes.draw do
 
   # DEBUG
   get 'debug' => 'debug#index'
+  get 'console' => 'console#index'
 
 end

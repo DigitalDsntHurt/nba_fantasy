@@ -1,0 +1,132 @@
+<%= form_for(player_game) do |f| %>
+  <% if player_game.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(player_game.errors.count, "error") %> prohibited this player_game from being saved:</h2>
+
+      <ul>
+      <% player_game.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :player_id %>
+    <%= f.text_field :player_id %>
+  </div>
+
+  <div class="field">
+    <%= f.label :team_id %>
+    <%= f.text_field :team_id %>
+  </div>
+
+  <div class="field">
+    <%= f.label :date %>
+    <%= f.text_field :date %>
+  </div>
+
+  <div class="field">
+    <%= f.label :opponent_id %>
+    <%= f.text_field :opponent_id %>
+  </div>
+
+  <div class="field">
+    <%= f.label :minutes_played %>
+    <%= f.text_field :minutes_played %>
+  </div>
+
+  <div class="field">
+    <%= f.label :fg %>
+    <%= f.number_field :fg %>
+  </div>
+
+  <div class="field">
+    <%= f.label :fga %>
+    <%= f.number_field :fga %>
+  </div>
+
+  <div class="field">
+    <%= f.label :fgp %>
+    <%= f.text_field :fgp %>
+  </div>
+
+  <div class="field">
+    <%= f.label :threep %>
+    <%= f.number_field :threep %>
+  </div>
+
+  <div class="field">
+    <%= f.label :threepa %>
+    <%= f.number_field :threepa %>
+  </div>
+
+  <div class="field">
+    <%= f.label :threepp %>
+    <%= f.text_field :threepp %>
+  </div>
+
+  <div class="field">
+    <%= f.label :ft %>
+    <%= f.number_field :ft %>
+  </div>
+
+  <div class="field">
+    <%= f.label :fta %>
+    <%= f.number_field :fta %>
+  </div>
+
+  <div class="field">
+    <%= f.label :ftp %>
+    <%= f.text_field :ftp %>
+  </div>
+
+  <div class="field">
+    <%= f.label :orb %>
+    <%= f.number_field :orb %>
+  </div>
+
+  <div class="field">
+    <%= f.label :drb %>
+    <%= f.number_field :drb %>
+  </div>
+
+  <div class="field">
+    <%= f.label :trb %>
+    <%= f.number_field :trb %>
+  </div>
+
+  <div class="field">
+    <%= f.label :ast %>
+    <%= f.number_field :ast %>
+  </div>
+
+  <div class="field">
+    <%= f.label :stl %>
+    <%= f.number_field :stl %>
+  </div>
+
+  <div class="field">
+    <%= f.label :blk %>
+    <%= f.number_field :blk %>
+  </div>
+
+  <div class="field">
+    <%= f.label :tov %>
+    <%= f.number_field :tov %>
+  </div>
+
+  <div class="field">
+    <%= f.label :pf %>
+    <%= f.number_field :pf %>
+  </div>
+
+  <div class="field">
+    <%= f.label :pts %>
+    <%= f.number_field :pts %>
+  </div>
+
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

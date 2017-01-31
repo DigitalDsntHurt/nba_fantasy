@@ -1,0 +1,2 @@
+json.extract! player_game, :id, :player_id, :team_id, :date, :opponent_id, :minutes_played, :fg, :fga, :fgp, :threep, :threepa, :threepp, :ft, :fta, :ftp, :orb, :drb, :trb, :ast, :stl, :blk, :tov, :pf, :pts, :created_at, :updated_at
+json.url player_game_url(player_game, format: :json)

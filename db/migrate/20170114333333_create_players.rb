@@ -1,10 +1,12 @@
 class CreatePlayers < ActiveRecord::Migration[5.0]
   def change
     create_table :players do |t|
+      t.integer :player_id
       t.string :name
       t.integer :year_of_birth
       t.string :position_br
       t.string :position_dk
+      t.belongs_to :team_year#, index: true#, foreign_key: true
       t.string :current_team
       t.text :team_history
       t.float :points_season_avg

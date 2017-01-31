@@ -1,6 +1,7 @@
 class CreateTeamYears < ActiveRecord::Migration[5.0]
   def change
     create_table :team_years do |t|
+      t.integer :team_year_id
       t.string :year
       t.string :team
       t.integer :wins
