@@ -21,7 +21,7 @@ class TeamYearsController < ApplicationController
       @team_years.where( year: yr).each{|row|
         @year_bucket << row.attributes
       }
-      @year_groups[yr.to_sym] = @year_bucket#.sort_by{|hsh| -hsh[:year] }
+      @year_groups[yr.to_sym] = @year_bucket.sort_by{|hsh| -hsh["wins"] }
     }
 
 

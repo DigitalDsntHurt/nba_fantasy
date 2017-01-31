@@ -1,12 +1,49 @@
-<p id="notice"><%= notice %></p>
-
 <h1 align="center">TeamYears</h1>
 
+<chart>
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+  <script>
+var width = 1500;
+var height = 600;
+var padding = {top: 20, right: 40, bottom: 20, left: 40};
+var canvas = d3.select("chart")
+              .append("svg")
+              .attr("width",width)
+              .attr("height",height);
+
+var group = canvas.append("g")
+            .attr("transform", "translate(" + padding.left + "," + padding.top + ")");
+
+var x = d3.scaleLinear()
+    .domain([0,82])
+    .range([padding.left, width-padding.right*2]);
+    //.padding(1);
+
+var y = d3.scaleLinear()
+    .domain([50000000,170000000])
+    .range([height-padding.bottom*3,padding.top]);
+
+group.append("g")
+  .attr("transform", "translate(" + padding.left + ",0)")
+  .attr("class", "axis")
+  .call(d3.axisLeft(y)
+      .ticks(10));
+
+group.append("g")
+  .attr("transform", "translate(0,550)")
+  .attr("class", "axis")
+  .call(d3.axisBottom(x)
+      .ticks(5));
+
+</script>
+</chart>
+
+<br><hr><br>
+
+<h2 align="center">Season Results</h2>
 <table class="thirds-table">
   <tbody>
-
     <% counter = 0 %>
-    
     <% (@year_groups.length/3).times do %>
       <tr>
         <% 3.times do %>

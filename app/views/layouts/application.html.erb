@@ -1,15 +1,22 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>PlayerPredictions</title>
+<head>
+    <title>Hi David</title>
     <%= csrf_meta_tags %>
+
+    <link rel="shortcut icon" href="/old_tablet.jpg"/>
 
     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
   </head>
 
   <body>
-  	<%= render 'shared/header_nav' %>
+  	
+    <%= render 'shared/header_nav' %>
+    
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    
     <%= yield %>
+
   </body>
 </html>
